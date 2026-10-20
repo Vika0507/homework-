@@ -1,0 +1,7 @@
+<?php
+$coffee_cups = 0;
+do {
+   echo "Выпил чашку кофе<br>";
+   $coffee_cups++;
+} while ($cofee_cups < 3);
+?>
